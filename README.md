@@ -21,7 +21,6 @@ It analyzes sales data across multiple dimensions like products, categories, cit
 ## 📂 Files Included
 - `Retail_Sales_Dashboard_HarshitShrivastava.pbix` – Power BI file
 - `Retail_Sales_Dashboard_HarshitShrivastava.pdf` – Exported PDF
-- `screenshot.png` – Visual preview of the dashboard
 
 ## 📬 Created by:
 **Harshit Shrivastava**  
